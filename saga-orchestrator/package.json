@@ -1,0 +1,14 @@
+{
+  "name": "saga-orchestrator",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "kafkajs": "^2.2.4",
+    "pg": "^8.11.5",
+    "uuid": "^9.0.1"
+  }
+}

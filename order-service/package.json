@@ -1,0 +1,12 @@
+{
+  "name": "order-service",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "uuid": "^9.0.1"
+  }
+}

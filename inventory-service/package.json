@@ -1,0 +1,12 @@
+{
+  "name": "inventory-service",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "kafkajs": "^2.2.4",
+    "pg": "^8.11.5"
+  }
+}
